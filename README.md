@@ -1,0 +1,2 @@
+# iTrend
+Emerging Trends tracker
