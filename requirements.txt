@@ -1,0 +1,12 @@
+# Core dependencies
+feedparser==6.0.10
+requests==2.31.0
+PyYAML==6.0.1
+
+# AI/ML
+openai==0.28.1
+
+# UI
+streamlit==1.29.0
+
+# Database - using stdlib sqlite3

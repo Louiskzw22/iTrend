@@ -1,0 +1,16 @@
+# iTrend Configuration
+# Configuration for podcast and RSS feed sources
+
+podcasts:
+  - name: "Cleantech Forward"
+    itunes_id: 1604425407
+    tags: "cleantech, sustainability, climate, energy"
+    enabled: true
+
+# Add more podcast or RSS feed sources here
+# Example:
+# rss_feeds:
+#   - name: "Example Blog"
+#     url: "https://example.com/feed.xml"
+#     tags: "tech, innovation"
+#     enabled: true
